@@ -1,0 +1,12 @@
+{
+  "img_size": 224,
+  "batch": 16,
+  "num_classes": 3,
+  "classes": [
+    "asfalto",
+    "cesped",
+    "grava"
+  ],
+  "saved": "2025-11-25T02:53:25.873113",
+  "arch": "NeuroBotCNN"
+}
